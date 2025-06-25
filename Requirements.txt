@@ -1,0 +1,7 @@
+1. numpy
+2. matplotlib
+3. scikit-learn
+4. librosa
+5. tensorflow
+6. streamlit
+7. soundfile
